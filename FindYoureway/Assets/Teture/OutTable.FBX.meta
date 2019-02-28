@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: b4acefc42fe144a41b324569077d80c3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrel_009
+    100002: Eettavel
+    100004: Eettavel002
+    100006: Eettavel003
+    100008: Fles003
+    100010: Fles004
+    100012: Fles005
+    100014: //RootNode
+    100016: Plane003
+    100018: Stoel
+    100020: Stoel003
+    400000: Barrel_009
+    400002: Eettavel
+    400004: Eettavel002
+    400006: Eettavel003
+    400008: Fles003
+    400010: Fles004
+    400012: Fles005
+    400014: //RootNode
+    400016: Plane003
+    400018: Stoel
+    400020: Stoel003
+    2100000: 07 - Default
+    2100002: 05 - Default
+    2100004: 10 - Default
+    2100006: Wood_Book
+    2100008: 'Material #8'
+    2300000: Barrel_009
+    2300002: Eettavel
+    2300004: Eettavel002
+    2300006: Eettavel003
+    2300008: Fles003
+    2300010: Fles004
+    2300012: Fles005
+    2300014: Plane003
+    2300016: Stoel
+    2300018: Stoel003
+    3300000: Barrel_009
+    3300002: Eettavel
+    3300004: Eettavel002
+    3300006: Eettavel003
+    3300008: Fles003
+    3300010: Fles004
+    3300012: Fles005
+    3300014: Plane003
+    3300016: Stoel
+    3300018: Stoel003
+    4300000: Eettavel
+    4300002: Eettavel002
+    4300004: Fles004
+    4300006: Eettavel003
+    4300008: Plane003
+    4300010: Fles003
+    4300012: Stoel003
+    4300014: Fles005
+    4300016: Stoel
+    4300018: Barrel_009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
